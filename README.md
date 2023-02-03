@@ -23,6 +23,6 @@ This application is conected to an API called open weather ( https://openweather
 
 If your are intrested on visiting the web site [click here](https://weather-app-iota-amber.vercel.app/ "click here")
 
-You can see the weather of any city in the planet! Try it! 
+You can see the weather of any city on the planet! Try it! 
 
 Thanks for visiting my repositorie.
