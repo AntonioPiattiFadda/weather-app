@@ -7,8 +7,8 @@ This application is conected to an API called open weather ( https://openweather
 -- CSS 
 - Boostrap
 
-:fa-check: HTML
-:fa-check: JAVASCRIPT
+-- HTML
+-- JAVASCRIPT
 - API Fetch
 
 -- REACT
