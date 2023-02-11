@@ -4,14 +4,14 @@ This application is conected to an API called open weather ( https://openweather
 
 ### Tecnologies used
 
-:fa-check: CSS 
+-- CSS 
 - Boostrap
 
 :fa-check: HTML
 :fa-check: JAVASCRIPT
 - API Fetch
 
-:fa-check: REACT
+-- REACT
 - useState
 - useEffect
 - useContext
